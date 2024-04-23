@@ -1,5 +1,6 @@
 <template>
   <div style="height:100%;">
+    <h1>VUX 这是App组件</h1>
     <div v-transfer-dom>
       <loading v-model="isLoading"></loading>
     </div>
